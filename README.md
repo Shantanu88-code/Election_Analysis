@@ -47,7 +47,7 @@ Here are the additional auditing tasks:
 # Challenge Summary:
 
 - Total votes cast.
-- 
+
 Total Votes: 369,711
 
 - Voter turnout and Percentage of votes from each county.
