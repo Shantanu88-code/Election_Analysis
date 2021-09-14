@@ -38,7 +38,7 @@ Seth, a Colorado Board of Elections member requested to audit election results o
 4. Calculate the total percentage of votes each candidate won
 5. Determine the winner based on popular votes.
 
-Along with these outcomes, Seth and his team requested another audit for the largest county turnover i.e. which county contributed largest number of votes, also the total percentage of votes in each county.
+Along with these outcomes, Seth and his team requested another audit for the largest county turnover i.e. which county contributed largest number of votes, also the total percentage of votes from each county.
 Here are the additional auditing tasks:
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
