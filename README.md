@@ -1,1 +1,31 @@
 # Election_Analysis
+
+# Project Overview:
+A Colorado Board of Elections member Seth has given you the following tasks to audit the election results of recent local congressional elections. 
+
+1. Calculate total number of votes cast.
+2. Get a complete list of candidates who received votes.
+3. Calculate the total number of votes each candidate received.
+4. Calculate the total percentage of votes each candidate won
+5. Determine the winner based on popular votes.
+
+# Resources:
+Data Source : election_results.csv
+Software : Python 3.7.6., Visual studio code.
+
+# Summary :
+The analysis of the election shows that
+
+- There were total of 369,711 votes cast.
+
+- The Candidates were:
+  1.Charles Casper Stockham
+  2.Diana DeGette
+  3.Raymon Anthony Doane
+  
+- Each candidate results were:
+  1. Charles Casper Stockham received 23.0% votes with 85,213 of total votes.
+  2. Diana DeGette received 73.8% votes with 272,892 of total votes.
+  3. Raymon Anthony Doane received 3.1% votes with 11,606 of total votes.
+
+- The winner of the election was Diana DeGette who received 73.8% votes with a total of 272,892 votes.
