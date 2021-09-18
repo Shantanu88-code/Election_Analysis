@@ -1,7 +1,7 @@
 # Election_Analysis
 
 # Project Overview:
-A Colorado Board of Elections member Seth has given you the following tasks to audit the election results of recent local congressional elections. 
+A Colorado Board of Elections member Seth has given the following tasks to audit the election results of recent local congressional elections. 
 
 1. Calculate total number of votes cast.
 2. Get a complete list of candidates who received votes.
