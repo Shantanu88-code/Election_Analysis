@@ -78,3 +78,11 @@ The screenshot of the terminal shows these results :
 <img width="249" alt="Terminal_result" src="https://user-images.githubusercontent.com/86980240/133895857-2145964f-b847-4c6a-9dc5-587afcb6993e.png">
 
 
+# Election Audit Summary :
+
+By using this script, one can also figure out how each candidate performed in each county. We have extracted each county's contribution in the election and 
+each candidate's results. For example, Jefferson county casted 38,855 (10.5%) votes, we can figure out which candidate received maximum votes out of 38,855. 
+Also, this script can be used on auditing state results. We will be working on larger data than what we had in this analysis. But using similar script and code, we can 
+analyse larger datasets
+
+
