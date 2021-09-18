@@ -46,7 +46,7 @@ Here are the additional auditing tasks:
 
 # Challenge Summary:
 
-- Total votes cast.
+- Total votes cast in congressional election
 
 Total Votes: 369,711
 
@@ -60,21 +60,18 @@ Arapahoe county had 6.7% of votes with voter turnout of 24,801.
 
 - Denver county had largest vote turnout.
 
-- Each candidate's name, votes percentage and total number votes received.
+- Each candidate's name, votes received percentage and total number votes received.
 
-Charles Casper Stockham: 23.0% , 85,213
+Charles Casper Stockham: 23.0% , 85,213 votes
 
-Diana DeGette: 73.8% , 272,892
+Diana DeGette: 73.8% , 272,892 votes
 
-Raymon Anthony Doane: 3.1% , 11,606
+Raymon Anthony Doane: 3.1% , 11,606 votes
 
 - The winner of the election with total votes and vote percentage.
 
-Winner: Diana DeGette
+The winner of the election was Diana DeGette, who received a total of 272,892 votes with a winning percentage of 73.8
 
-Winning Vote Count: 272,892
-
-Winning Percentage: 73.8%
 
 The screenshot of the terminal shows these results :
 
