@@ -76,3 +76,8 @@ Winning Vote Count: 272,892
 
 Winning Percentage: 73.8%
 
+The screenshot of the terminal shows these results :
+
+<img width="249" alt="Terminal_result" src="https://user-images.githubusercontent.com/86980240/133895857-2145964f-b847-4c6a-9dc5-587afcb6993e.png">
+
+
